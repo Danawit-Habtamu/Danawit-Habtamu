@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 -->
 💻 Front end devloper skilled in HTML,CSS ,JavaScript ,React and Node Js
   
+## Connect with Me
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME]" style="text-decoration: none; color: #E4405F;">
+    <span style="font-size: 24px; margin-right: 5px;">📸</span> Instagram
+  </a>
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" style="text-decoration: none; color: #0077B5;">
+    <span style="font-size: 24px; margin-right: 5px;">💼</span> LinkedIn
+  </a>
+  <a href="mailto:[YOUR_EMAIL_ADDRESS]" style="text-decoration: none; color: #007BFF;">
+    <span style="font-size: 24px; margin-right: 5px;">📧</span> Email
+  </a>
+</div>
